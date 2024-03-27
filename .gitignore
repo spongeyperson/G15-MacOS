@@ -13,6 +13,9 @@ Thumbs.db:encryptable
 $RECYCLE.BIN/
 *.stackdump
 
+# Ignore Apple Recovery
+com.apple.recovery.boot/**
+
 # Ignore Mounted
 /mnt/
 /Volumes/
